@@ -1,0 +1,4 @@
+Commitment.
+Per part nostra; el product manager es compromet a que pel día 4 de Desembre s’hagi aconseguit captar els requisits del projecte aixi com entendre’ls (equivalent a les preguntes 1 i 2); Analitzat quins d’aquestos entren en conflicto i solucionar-los prioritzant els actius mé valiosos (equivalent a la pregunta 3). 
+Adicionalment ens comprometen a haver enllestit els casos d’ús del software orientat al client com a actor principal i realitzant l’estudi i documentación dels casos d’ús més rellevants (corresponent a les preguntes 4, 5, 6 i 7).
+Att – Product Owner.
