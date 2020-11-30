@@ -1,0 +1,20 @@
+#Roles del proyecto 
+
+**Product Owner**
+
+Tiene la responsabilidad de decidir qué trabajo necesita hacerse y maximizar el valor de nuestro proyecto.
+Este hará el product backlog y dará el orden de prioridad de las tareas del mismo. 
+
+
+**Scrum Master**
+
+La persona que va a ayudar al equipo completo a usar lo mejor posible la metodología Scrum y que todas las reglas de esta metodología se vayan cumpliendo.
+También será la conexión que va a tener el equipo de desarrollo con el Product Owner.
+Ayudará tanto al Product Owner (en tomas de decisiones etc.) como al equipo (gestionar y realizar las tareas). 
+El Scrum Master puede pertenecer al equipo o que provenga del cliente, en nuestro caso pertenece al equipo y trabajará junto al mismo.
+
+**Equipo de Desarrollo**
+
+Grupo con los conocimientos técnicos necesarios y que desarrollan el proyecto de manera conjunta llevando a cabo las tareas que se comprometen a realizar al inicio de cada sprint. 
+Nuestro equipo se repartirá las tareas de cada sprint y se autocoordinará y se autoorganizará bajo la supervisión del Scrum Master (este estará informado de la organización para que prevenir posibles malentendidos en un futuro). Si en algún punto del proyecto el equipo de desarrollo no llega a un acuerdo se lo comunicará al Scrum Master para que este aporte soluciones.
+El equipo debe tener una visión clara de lo que el Product owner busca, por eso debe estar en contacto frecuente con este. 
