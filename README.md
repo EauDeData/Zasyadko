@@ -1,6 +1,6 @@
 # Zasyadko
-Som Zasyadko, una empresa de software dedicada a agilitzar la restauració.
-El nostre objectiu és produir software que doni suport als negocis emergents de la restauració; en forma de petites infrestructures que gestionaran les comandes i agilitzarà la sortida dels plats de la cuina amb models d'optimització basats en algorismes de cerca.
+Som Zasyadko, una empresa de software dedicada a agilitzar el món del personal shopping.
+El nostre objectiu és produir software que doni suport als negocis emergents del shopping.
 Seguirem la metodologia SCRUM com a model àgil de desenvolupament. Així podrem centrar-nos en diferents aspectes de l'infraestructura basant-nos en els sprints puntuals com a deadline. 
 
 El grup està format per:
