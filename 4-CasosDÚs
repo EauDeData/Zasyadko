@@ -1,0 +1,12 @@
+Cas d'ús, Actor-Inicial
+
+Registrar Usuari, Client
+Analitzar perfil, Personal shopper
+Efectuar comanda, Client
+Rebre comanda, Personal shopper
+Tornar peçes de roba, Client
+Actualitzar formes de pagament, Client
+Registrar primer asesorament gratuit, App (sols pots tenir un asesorament gratuït pel que s ha de guardar quan l'has consumit)
+Concloure Asesorament per enviament, App (un asesorament no es pot reutilitzar per un altre comanda així que també s ha de guardar)
+Contactar amb Missatgeria - Client (si les comandes s envien per un servei de missatgeria extern l app hauria de poder fer de pont)
+Consolidar comanda - App ( si en una setmana no hi ha retroacció s'enten que no es vol retornar res pel que hem de pasar a efectuar el pagament).
