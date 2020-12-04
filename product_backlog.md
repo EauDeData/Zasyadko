@@ -2,7 +2,7 @@
 | Estat | Història | Dependències | Estat | % finalizado |
 |-------|----------|--------------|-------|--------------|
 | A | Anàlisis requisits | | Finalitzat | 100 % |
-| B | Casos d’ús | Finalitzat | | Finalitzat | 100 % |
+| B | Casos d’ús | Finalitzat |   | Finalitzat | 100 % |
 | C | Diagrames d'activitas | B | Finalitzat | 100 % |
 | D | Diagrames seqüencials | B | Finalitzat | 100 % |
 | E | Diagrames de classes | | Per començar | 0 % |
