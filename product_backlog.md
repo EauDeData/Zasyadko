@@ -5,8 +5,8 @@
 | B | Casos d’ús |  | Finalitzat | 100 % |
 | C | Diagrames d'activitas | B | Finalitzat | 100 % |
 | D | Diagrames seqüencials | B | Finalitzat | 100 % |
-| E | Diagrames de classes | | Per començar | 0 % |
-| F | Visualització app | | Per començar| 0 % |
+| E | Diagrames de classes | | Per començar | 50 % |
+| F | Visualització app | | Per començar| 100 % |
 
 ### Product Backlog 
 
@@ -19,7 +19,7 @@
 | 5 | B | Diagrama de casos d’ús i descripcions DCUS de mínim 3 casos d’us | 4 | 100 % | Si |
 | 6 | C | Diagrama d’activitats de mínim 2 casos d’ús descrits en la tasca 5 | 4, 5 | 100 % | Si |
 | 7 | D | Diagrama de sequüència de mínim 2 casos d’ús descrits en la tasca 5 | 4, 5 | 100 % | Si |
-| 8 | E | Diagrama de classes UML donada una cita del stakeholder. |  | 0 % |  |
+| 8 | E | Diagrama de classes UML donada una cita del stakeholder. |  | 100 % | Si |
 | 9 | E | Diagrama de classes UML donada una cita del stakeholder. |  | 0 % |  |
-| 10 | F | Disseny amb wireframs de l'aplicació |  | 0 % |  |
+| 10 | F | Disseny amb wireframs de l'aplicació |  | 100 % | Si |
 
